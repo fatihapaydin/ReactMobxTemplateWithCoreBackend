@@ -1,0 +1,10 @@
+{
+    "mssql.connections": [
+        {
+            "server": "DESKTOP-8BGLM9G\\SQLFATIH",
+            "database": "ReactMobx",
+            "authenticationType": "Integrated",
+            "multipleActiveResultSets": true
+        }
+    ]
+}

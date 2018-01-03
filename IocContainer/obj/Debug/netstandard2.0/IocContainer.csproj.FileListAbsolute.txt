@@ -1,0 +1,14 @@
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\IocContainer.deps.json
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\IocContainer.dll
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\IocContainer.pdb
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\IsKatmani.dll
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\VeriErisim.dll
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\IsKatmani.pdb
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\VeriErisim.pdb
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\obj\Debug\netstandard2.0\IocContainer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\obj\Debug\netstandard2.0\IocContainer.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\obj\Debug\netstandard2.0\IocContainer.AssemblyInfo.cs
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\obj\Debug\netstandard2.0\IocContainer.dll
+C:\Users\fatih\Desktop\ServisTarafi\ReactMobxTemplate\IocContainer\obj\Debug\netstandard2.0\IocContainer.pdb

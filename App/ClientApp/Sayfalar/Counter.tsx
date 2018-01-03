@@ -1,8 +1,10 @@
 import * as React from 'react';
 import { RouteComponentProps } from 'react-router';
-import { CounterBilesen, AppState } from "./../Bilesenler/CounterBilesen";
+import { CounterBilesen } from "./../Bilesenler/CounterBilesen";
+import { CounterStore } from "./../Stores/CounterStore";
 
-const appState = new AppState(10);
+
+const appState = new CounterStore(10);
 
 export class Counter extends React.Component<RouteComponentProps<{}>, {}> {
 

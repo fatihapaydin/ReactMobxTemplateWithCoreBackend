@@ -1,43 +1,16 @@
-import { observable, action, computed } from "mobx";
+import { CounterStore } from "./../Stores/CounterStore";
 import { observer } from "mobx-react";
 import * as React from "react";
 
 
-export class AppState {
-    @observable private _sayac: number = 0;
-
-    constructor(number?: number) {
-        this._sayac = number || this._sayac;
-    }
-
-    @action
-    sifirla() {
-        this._sayac = 0;
-    }
-
-    @action
-    arttir() {
-        this._sayac++;
-    }
-
-    @action
-    azalt() {
-        this._sayac--;
-    }
-
-    @computed
-    get sayac() {
-        return this._sayac;
-    }
-}
 
 interface IAppState {
-    nesne: AppState;
+    nesne: CounterStore;
 }
 
 @observer
 export class CounterBilesen extends React.Component<IAppState, {}>{
-    private BilesenDurum: AppState;
+    private BilesenDurum: CounterStore;
 
     constructor(props: IAppState) {
         super(props);

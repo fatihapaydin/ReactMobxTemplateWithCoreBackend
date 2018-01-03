@@ -1,8 +1,9 @@
 import * as React from 'react';
 import { RouteComponentProps } from 'react-router';
-import { SicaklikBilesen, Sicaklik } from "./../Bilesenler/SicaklikBilesen";
+import { SicaklikBilesen } from "./../Bilesenler/SicaklikBilesen";
+import { SicaklikStore } from "./../Stores/SicaklikStore";
 
-const appState = new Sicaklik("F", 200);
+const appState = new SicaklikStore("F", 200);
 
 export class SicaklikSayfa extends React.Component<RouteComponentProps<{}>, {}> {
 
